@@ -1,4 +1,4 @@
-# Uncertainty_Spatial-Temporal_Attention_Graph_Neural_Network
+# Uncertainty_Spatial-Temporal_Attention_Graph_Neural_Network (USTAGNN)
 This code is related to the paper "Spatial-Temporal Attention Graph Neural Network with Uncertainty Estimation for Remaining Useful Life Prediction".
 
 ## Model
